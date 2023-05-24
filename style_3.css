@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: #5d6fb7;;
+    }
+    .logo{
+        background-color: #122e6e;
+        width: auto;
+        height: 130px;
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: white;
+        font-size: large;
+    }
+    .logo img{
+        border: 2px solid white;
+        border-radius: 100%;
+    }
+    header{
+        background-color:#384e92;
+        height: 80px;
+        text-align: center;
+    }
+    div.cabecalho{
+        width: 10%;
+        display: inline-flex;
+        margin: 20px;
+    text-align: center;
+    
+    }
+    a{
+    color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 21px;
+        text-decoration: none; 
+    }
+    a:hover{
+        color: lightgray;
+    }
+    .telefone{   
+         display:table-cell;}
+         div.telefone{
+           width:auto;
+           text-align: center;
+           float: initial;
+         }
+         footer{
+            color: #122e6e;
+            background-color:#5d6fb7;;
+            text-decoration: none;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: right;
+            height: 15px;
+            border-top: 0;
+            padding: 2%;
+            font-size: medium;}
+    
